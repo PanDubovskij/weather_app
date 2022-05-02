@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="today">Today</string>
+    <string name="forecast">forecast</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="today_fragment">today</string>
+    <string name="forecast_blank">forecast</string>
+</resources>
